@@ -1,0 +1,4 @@
+com\ctu\digitaldungeon\DigitaldungeonApplication.class
+com\ctu\digitaldungeon\GatekeeperRequest.class
+com\ctu\digitaldungeon\DungeonExceptionHandler.class
+com\ctu\digitaldungeon\DungeonController.class
